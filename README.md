@@ -1,4 +1,4 @@
 # Level-Task-Management-Angular
 
-Author - Waqar Ahmed
-\nCodingWithWaqar -> Url: https://Codingwithwaqar.com
+Author - Waqar Ahmed <br>
+CodingWithWaqar -> Url: https://Codingwithwaqar.com
